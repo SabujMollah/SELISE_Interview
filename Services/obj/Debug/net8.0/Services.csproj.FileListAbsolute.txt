@@ -1,0 +1,14 @@
+D:\Tutorial\Selise\Interview\Services\bin\Debug\net8.0\Services.exe
+D:\Tutorial\Selise\Interview\Services\bin\Debug\net8.0\Services.deps.json
+D:\Tutorial\Selise\Interview\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+D:\Tutorial\Selise\Interview\Services\bin\Debug\net8.0\Services.dll
+D:\Tutorial\Selise\Interview\Services\bin\Debug\net8.0\Services.pdb
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.dll
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.pdb
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+D:\Tutorial\Selise\Interview\Services\obj\Debug\net8.0\ref\Services.dll
